@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Vandorya {
+module Vandoryaa {
 }
